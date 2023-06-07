@@ -13,11 +13,11 @@ const Title = styled.h1`
   color: ${(props) => props.theme.textColor};
 `;
 
-const Theme = () => {
+const Theme_basic = () => {
   return (
     <Wrapper>
       <Title>hello</Title>
     </Wrapper>
   );
 };
-export default Theme;
+export default Theme_basic;
