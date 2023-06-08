@@ -10,7 +10,7 @@ const H1 = styled.h1`
 const Theme_declaration = () => {
   return (
     <Container>
-      <H1>HIOIIIIIIIIIII protected!!</H1>
+      <H1>HIIIIIIIIIIII type script protected!!</H1>
     </Container>
   );
 };
